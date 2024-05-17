@@ -1,0 +1,14 @@
+C:\Users\RABİA\Desktop\works\Wordle\bin\Debug\net8.0\Wordle.exe
+C:\Users\RABİA\Desktop\works\Wordle\bin\Debug\net8.0\Wordle.deps.json
+C:\Users\RABİA\Desktop\works\Wordle\bin\Debug\net8.0\Wordle.runtimeconfig.json
+C:\Users\RABİA\Desktop\works\Wordle\bin\Debug\net8.0\Wordle.dll
+C:\Users\RABİA\Desktop\works\Wordle\bin\Debug\net8.0\Wordle.pdb
+C:\Users\RABİA\Desktop\works\Wordle\obj\Debug\net8.0\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABİA\Desktop\works\Wordle\obj\Debug\net8.0\Wordle.AssemblyInfoInputs.cache
+C:\Users\RABİA\Desktop\works\Wordle\obj\Debug\net8.0\Wordle.AssemblyInfo.cs
+C:\Users\RABİA\Desktop\works\Wordle\obj\Debug\net8.0\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\RABİA\Desktop\works\Wordle\obj\Debug\net8.0\Wordle.dll
+C:\Users\RABİA\Desktop\works\Wordle\obj\Debug\net8.0\refint\Wordle.dll
+C:\Users\RABİA\Desktop\works\Wordle\obj\Debug\net8.0\Wordle.pdb
+C:\Users\RABİA\Desktop\works\Wordle\obj\Debug\net8.0\Wordle.genruntimeconfig.cache
+C:\Users\RABİA\Desktop\works\Wordle\obj\Debug\net8.0\ref\Wordle.dll
