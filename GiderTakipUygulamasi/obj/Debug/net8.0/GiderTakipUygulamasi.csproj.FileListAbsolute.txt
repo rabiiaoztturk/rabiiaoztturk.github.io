@@ -1,0 +1,14 @@
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\obj\Debug\net8.0\GiderTakipUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\obj\Debug\net8.0\GiderTakipUygulamasi.AssemblyInfoInputs.cache
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\obj\Debug\net8.0\GiderTakipUygulamasi.AssemblyInfo.cs
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\obj\Debug\net8.0\GiderTakipUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\bin\Debug\net8.0\GiderTakipUygulamasi.exe
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\bin\Debug\net8.0\GiderTakipUygulamasi.deps.json
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\bin\Debug\net8.0\GiderTakipUygulamasi.runtimeconfig.json
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\bin\Debug\net8.0\GiderTakipUygulamasi.dll
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\bin\Debug\net8.0\GiderTakipUygulamasi.pdb
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\obj\Debug\net8.0\GiderTakipUygulamasi.dll
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\obj\Debug\net8.0\refint\GiderTakipUygulamasi.dll
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\obj\Debug\net8.0\GiderTakipUygulamasi.pdb
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\obj\Debug\net8.0\GiderTakipUygulamasi.genruntimeconfig.cache
+C:\Users\RABİA\Desktop\works\GiderTakipUygulamasi\obj\Debug\net8.0\ref\GiderTakipUygulamasi.dll
