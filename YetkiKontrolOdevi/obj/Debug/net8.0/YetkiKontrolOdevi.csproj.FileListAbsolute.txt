@@ -1,0 +1,14 @@
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\obj\Debug\net8.0\YetkiKontrolOdevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\obj\Debug\net8.0\YetkiKontrolOdevi.AssemblyInfoInputs.cache
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\obj\Debug\net8.0\YetkiKontrolOdevi.AssemblyInfo.cs
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\obj\Debug\net8.0\YetkiKontrolOdevi.csproj.CoreCompileInputs.cache
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\bin\Debug\net8.0\YetkiKontrolOdevi.exe
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\bin\Debug\net8.0\YetkiKontrolOdevi.deps.json
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\bin\Debug\net8.0\YetkiKontrolOdevi.runtimeconfig.json
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\bin\Debug\net8.0\YetkiKontrolOdevi.dll
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\bin\Debug\net8.0\YetkiKontrolOdevi.pdb
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\obj\Debug\net8.0\YetkiKontrolOdevi.dll
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\obj\Debug\net8.0\refint\YetkiKontrolOdevi.dll
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\obj\Debug\net8.0\YetkiKontrolOdevi.pdb
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\obj\Debug\net8.0\YetkiKontrolOdevi.genruntimeconfig.cache
+C:\Users\RABİA\Desktop\works\YetkiKontrolOdevi\obj\Debug\net8.0\ref\YetkiKontrolOdevi.dll
