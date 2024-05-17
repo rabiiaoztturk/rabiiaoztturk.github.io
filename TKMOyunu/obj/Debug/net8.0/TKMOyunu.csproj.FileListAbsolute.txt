@@ -1,0 +1,14 @@
+C:\Users\RABİA\Desktop\works\TKMOyunu\bin\Debug\net8.0\TKMOyunu.exe
+C:\Users\RABİA\Desktop\works\TKMOyunu\bin\Debug\net8.0\TKMOyunu.deps.json
+C:\Users\RABİA\Desktop\works\TKMOyunu\bin\Debug\net8.0\TKMOyunu.runtimeconfig.json
+C:\Users\RABİA\Desktop\works\TKMOyunu\bin\Debug\net8.0\TKMOyunu.dll
+C:\Users\RABİA\Desktop\works\TKMOyunu\bin\Debug\net8.0\TKMOyunu.pdb
+C:\Users\RABİA\Desktop\works\TKMOyunu\obj\Debug\net8.0\TKMOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABİA\Desktop\works\TKMOyunu\obj\Debug\net8.0\TKMOyunu.AssemblyInfoInputs.cache
+C:\Users\RABİA\Desktop\works\TKMOyunu\obj\Debug\net8.0\TKMOyunu.AssemblyInfo.cs
+C:\Users\RABİA\Desktop\works\TKMOyunu\obj\Debug\net8.0\TKMOyunu.csproj.CoreCompileInputs.cache
+C:\Users\RABİA\Desktop\works\TKMOyunu\obj\Debug\net8.0\TKMOyunu.dll
+C:\Users\RABİA\Desktop\works\TKMOyunu\obj\Debug\net8.0\refint\TKMOyunu.dll
+C:\Users\RABİA\Desktop\works\TKMOyunu\obj\Debug\net8.0\TKMOyunu.pdb
+C:\Users\RABİA\Desktop\works\TKMOyunu\obj\Debug\net8.0\TKMOyunu.genruntimeconfig.cache
+C:\Users\RABİA\Desktop\works\TKMOyunu\obj\Debug\net8.0\ref\TKMOyunu.dll
