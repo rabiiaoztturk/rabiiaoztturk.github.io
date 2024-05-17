@@ -1,0 +1,14 @@
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\bin\Debug\net8.0\GunlukUygulamasi.exe
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\bin\Debug\net8.0\GunlukUygulamasi.deps.json
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\bin\Debug\net8.0\GunlukUygulamasi.runtimeconfig.json
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\bin\Debug\net8.0\GunlukUygulamasi.dll
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\bin\Debug\net8.0\GunlukUygulamasi.pdb
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\obj\Debug\net8.0\GunlukUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\obj\Debug\net8.0\GunlukUygulamasi.AssemblyInfoInputs.cache
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\obj\Debug\net8.0\GunlukUygulamasi.AssemblyInfo.cs
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\obj\Debug\net8.0\GunlukUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\obj\Debug\net8.0\GunlukUygulamasi.dll
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\obj\Debug\net8.0\refint\GunlukUygulamasi.dll
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\obj\Debug\net8.0\GunlukUygulamasi.pdb
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\obj\Debug\net8.0\GunlukUygulamasi.genruntimeconfig.cache
+C:\Users\RABİA\Desktop\works\GunlukUygulamasi\obj\Debug\net8.0\ref\GunlukUygulamasi.dll
