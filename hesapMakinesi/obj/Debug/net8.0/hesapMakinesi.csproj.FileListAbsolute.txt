@@ -1,0 +1,14 @@
+C:\Users\RABİA\Desktop\works\hesapMakinesi\bin\Debug\net8.0\hesapMakinesi.exe
+C:\Users\RABİA\Desktop\works\hesapMakinesi\bin\Debug\net8.0\hesapMakinesi.deps.json
+C:\Users\RABİA\Desktop\works\hesapMakinesi\bin\Debug\net8.0\hesapMakinesi.runtimeconfig.json
+C:\Users\RABİA\Desktop\works\hesapMakinesi\bin\Debug\net8.0\hesapMakinesi.dll
+C:\Users\RABİA\Desktop\works\hesapMakinesi\bin\Debug\net8.0\hesapMakinesi.pdb
+C:\Users\RABİA\Desktop\works\hesapMakinesi\obj\Debug\net8.0\hesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABİA\Desktop\works\hesapMakinesi\obj\Debug\net8.0\hesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\RABİA\Desktop\works\hesapMakinesi\obj\Debug\net8.0\hesapMakinesi.AssemblyInfo.cs
+C:\Users\RABİA\Desktop\works\hesapMakinesi\obj\Debug\net8.0\hesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\RABİA\Desktop\works\hesapMakinesi\obj\Debug\net8.0\hesapMakinesi.dll
+C:\Users\RABİA\Desktop\works\hesapMakinesi\obj\Debug\net8.0\refint\hesapMakinesi.dll
+C:\Users\RABİA\Desktop\works\hesapMakinesi\obj\Debug\net8.0\hesapMakinesi.pdb
+C:\Users\RABİA\Desktop\works\hesapMakinesi\obj\Debug\net8.0\hesapMakinesi.genruntimeconfig.cache
+C:\Users\RABİA\Desktop\works\hesapMakinesi\obj\Debug\net8.0\ref\hesapMakinesi.dll
