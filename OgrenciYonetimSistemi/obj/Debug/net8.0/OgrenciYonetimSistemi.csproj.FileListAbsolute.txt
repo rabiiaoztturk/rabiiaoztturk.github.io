@@ -1,0 +1,14 @@
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.AssemblyInfo.cs
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\bin\Debug\net8.0\OgrenciYonetimSistemi.exe
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\bin\Debug\net8.0\OgrenciYonetimSistemi.deps.json
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\bin\Debug\net8.0\OgrenciYonetimSistemi.runtimeconfig.json
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\bin\Debug\net8.0\OgrenciYonetimSistemi.dll
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\bin\Debug\net8.0\OgrenciYonetimSistemi.pdb
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.dll
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\obj\Debug\net8.0\refint\OgrenciYonetimSistemi.dll
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.pdb
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.genruntimeconfig.cache
+C:\Users\RABİA\Desktop\works\OgrenciYonetimSistemi\obj\Debug\net8.0\ref\OgrenciYonetimSistemi.dll
